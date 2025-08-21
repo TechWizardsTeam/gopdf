@@ -1,9 +1,10 @@
 package gopdf_test
 
 import (
-	"github.com/signintech/gopdf"
 	"io"
 	"os"
+
+	"github.com/TechWizardsTeam/gopdf"
 )
 
 func ExampleFontContainer_AddTTFFont() {
